@@ -1,0 +1,6 @@
+message: "&6Restarting the server....."
+servername: Hub
+mode: blacklist
+list:
+  - ban
+  - kick

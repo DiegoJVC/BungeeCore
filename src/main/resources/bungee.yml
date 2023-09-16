@@ -1,0 +1,4 @@
+name: BungeeCore
+version: ${version}
+author: CobelPvP Development Team
+main: com.cobelpvp.bungeecore.BungeeCore
